@@ -1,5 +1,5 @@
 # Khaerul Umam
-Hi, I'm Khaerul Umam, Machine Learning Engineer at [FinAccel](https://www.linkedin.com/company/finaccel-pte-ltd/), one of our product is [Kredivo](https://www.kredivo.com/) - an online credit card with payment methods and installments in 30 days or in installments within months. Live in South Tangerang with my beloved wife and daughter 👧
+Hi, I'm Khaerul Umam, Machine Learning Engineer at [FinAccel](https://www.linkedin.com/company/finaccel-pte-ltd/), one of our product is [Kredivo](https://www.kredivo.com/) - an online credit card with payment methods and installments in 30 days or in installments within months. Live in South Tangerang, Indonesia with my beloved wife and daughter 👧
 
 
 ## Get in touch
